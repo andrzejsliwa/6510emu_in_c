@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+      "make": {
+        "command": "uvx",
+        "args": [
+          "mcp-server-make"
+        ]
+      }
+    }
+  }
